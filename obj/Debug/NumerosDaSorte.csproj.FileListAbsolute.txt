@@ -1,0 +1,10 @@
+C:\Users\Gabriel\OneDrive\Documentos\Estudos\Projetos\NumerosDaSorte\bin\Debug\NumerosDaSorte.exe.config
+C:\Users\Gabriel\OneDrive\Documentos\Estudos\Projetos\NumerosDaSorte\bin\Debug\NumerosDaSorte.exe
+C:\Users\Gabriel\OneDrive\Documentos\Estudos\Projetos\NumerosDaSorte\bin\Debug\NumerosDaSorte.pdb
+C:\Users\Gabriel\OneDrive\Documentos\Estudos\Projetos\NumerosDaSorte\obj\Debug\NumerosDaSorte.csproj.AssemblyReference.cache
+C:\Users\Gabriel\OneDrive\Documentos\Estudos\Projetos\NumerosDaSorte\obj\Debug\NumerosDaSorte.Form1.resources
+C:\Users\Gabriel\OneDrive\Documentos\Estudos\Projetos\NumerosDaSorte\obj\Debug\NumerosDaSorte.Properties.Resources.resources
+C:\Users\Gabriel\OneDrive\Documentos\Estudos\Projetos\NumerosDaSorte\obj\Debug\NumerosDaSorte.csproj.GenerateResource.cache
+C:\Users\Gabriel\OneDrive\Documentos\Estudos\Projetos\NumerosDaSorte\obj\Debug\NumerosDaSorte.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\OneDrive\Documentos\Estudos\Projetos\NumerosDaSorte\obj\Debug\NumerosDaSorte.exe
+C:\Users\Gabriel\OneDrive\Documentos\Estudos\Projetos\NumerosDaSorte\obj\Debug\NumerosDaSorte.pdb
