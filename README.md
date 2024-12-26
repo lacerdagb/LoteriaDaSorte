@@ -21,19 +21,33 @@ Este projeto gera números aleatórios no intervalo de **1 a 60**, com a possibi
 
 1. **Clone o repositório**:
 
+   ```bash
+   git clone https://github.com/seuusuario/gestor-de-estoque.git
+   ```
 
-🖥️ Uso do Programa
-Quando você executar o programa, o seguinte menu será exibido na interface gráfica:
+2. **Abra o projeto no Visual Studio** ou qualquer outro editor de sua preferência.
 
-🎯 Gerar Números
-Escolha a quantidade de números que deseja gerar no ComboBox (de 1 a 20).
-Clique no botão Gerar para exibir os números aleatórios.
-🧹 Limpar
-Clique no botão Limpar para apagar todos os números exibidos.
-📜 Licença
-Este projeto está licenciado sob a MIT License.
+3. **Compile e execute** o projeto:
 
-🤝 Contribuições
-Contribuições são bem-vindas! Sinta-se à vontade para abrir uma issue ou enviar um pull request.
-```bash
-git clone https://github.com/seu-usuario/gerador-de-numeros-aleatorios.git
+   ```bash
+   dotnet run
+   ```
+   ## 📜 **Licença**
+
+Este projeto está licenciado sob a **MIT License**.
+
+---
+
+## 🤝 **Contribuições**
+
+Contribuições são bem-vindas! Sinta-se à vontade para abrir uma **issue** ou enviar um **pull request**. 
+
+---
+
+## 📞 **Contato**
+
+- **LinkedIn**: (www.linkedin.com/in/gabriel-lacerda-052a8a293/)
+- **Email**: gblacerda15@gmail.com
+
+
+
