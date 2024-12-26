@@ -21,6 +21,19 @@ Este projeto gera números aleatórios no intervalo de **1 a 60**, com a possibi
 
 1. **Clone o repositório**:
 
-   
+
+🖥️ Uso do Programa
+Quando você executar o programa, o seguinte menu será exibido na interface gráfica:
+
+🎯 Gerar Números
+Escolha a quantidade de números que deseja gerar no ComboBox (de 1 a 20).
+Clique no botão Gerar para exibir os números aleatórios.
+🧹 Limpar
+Clique no botão Limpar para apagar todos os números exibidos.
+📜 Licença
+Este projeto está licenciado sob a MIT License.
+
+🤝 Contribuições
+Contribuições são bem-vindas! Sinta-se à vontade para abrir uma issue ou enviar um pull request.
 ```bash
 git clone https://github.com/seu-usuario/gerador-de-numeros-aleatorios.git
