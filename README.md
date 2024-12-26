@@ -23,7 +23,8 @@ Este projeto gera números aleatórios no intervalo de **1 a 60**, com a possibi
 1. **Clone o repositório**:
 
    ```bash
-   git clone https://github.com/seuusuario/gestor-de-estoque.git
+   git clone https://github.com/lacerdagb/LoteriaDaSorte.git
+
    ```
 
 2. **Abra o projeto no Visual Studio** ou qualquer outro editor de sua preferência.
