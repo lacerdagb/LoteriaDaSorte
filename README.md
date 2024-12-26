@@ -1,5 +1,6 @@
 # 🎲 Gerador de Números Aleatórios em C#
-![image](https://github.com/user-attachments/assets/1e805088-ed8e-44de-a6c2-aaefa54822b5)
+![image](https://github.com/user-attachments/assets/9da888bd-7853-491c-b563-8539d8d75592)
+
 
 
 Um simples programa em **C#** para gerar números aleatórios. O usuário pode escolher a quantidade de números a serem gerados e o programa exibirá esses números de forma simples e intuitiva. Ideal para sorteios, simulações ou para quem deseja testar seus números da sorte!
